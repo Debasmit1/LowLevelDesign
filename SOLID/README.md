@@ -30,4 +30,3 @@ Interface Segmented Principle
 
 Dependency Inversion Principle
 -> Class should depend on interfaces rather than concrete classes
-
